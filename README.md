@@ -1,4 +1,4 @@
-# CallMosaic AI - Earnings Transcript Intelligence Engine
+# Earnings Transcript Intelligence Engine
 
 CallMosaic AI is a structured research tool designed to analyze earnings call transcripts. It extracts text from PDF transcripts (including scanned ones), cleans it, and uses Groq's LLM to generate a comprehensive, structured one-page summary for analysts.
 
