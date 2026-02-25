@@ -21,9 +21,6 @@ CallMosaic AI is a structured research tool designed to analyze earnings call tr
 | Step 3: Review | Step 4: Export |
 | :---: | :---: |
 | ![Review](images/step_3_dashboard_template.png) | ![Export](images/step_4_report_template.png) |
-| **View the structured summary dashboard** | **Download the professional PDF report** |
-
-*(Note: Place your own images in the `images/` folder with these names to customize this guide)*
 
 ## Setup
 
